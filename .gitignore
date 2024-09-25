@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+
+# PyCharm specific settings
+.idea/
+
+# SQLite database
+db.sqlite3
+
+# Python cache files
+__pycache__/
+
+# User-uploaded media files
+media/
+
+# Django migrations (optional, but typically not ignored unless there's a reason)
+*.pyc
+*.pyo
+*.pyd
+
+# pip installer script
+get-pip.py
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
